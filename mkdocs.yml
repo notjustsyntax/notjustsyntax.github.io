@@ -17,8 +17,6 @@ theme:
 
 nav:
   - Home: index.md
-  - About: about.md
-  - Documentation: docs.md
 
 markdown_extensions:
   - admonition
