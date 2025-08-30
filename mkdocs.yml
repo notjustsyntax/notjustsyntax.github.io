@@ -1,6 +1,6 @@
 site_name: ClearDocs
 site_url: https://cleardocs.dev/
-site_description: Clarity at the intersection of writing, code, and ML
+site_description: Clear technical writing on software, developer docs, and modern science. Tutorials, guides, and insights made simple.
 
 theme:
   name: material
