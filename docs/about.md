@@ -5,5 +5,6 @@ Usama is a technical writer who makes technology accessible and human. He turns 
 ## Contact
 
 - Email:
-- GitHub:
-- Go back to the [hompage](index.md)
+- GitHub: [NotJustSyntax](https://www.github.com "Usama's GitHub")
+  
+Go back to the [hompage](index.md)
